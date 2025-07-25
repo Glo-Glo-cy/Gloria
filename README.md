@@ -24,22 +24,23 @@ I'm a passionate Front-end developemnt with experience in Html, Css, Javascript,
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [DE-NOSH-PROJECT](https://github.com/Express-Digital/DE-NOSH-PROJECT.git)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot] (https://bit.ly/454S4WA)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[DE-NOSH-PROJECT]** is a **[RESTURANT WEBSITE]** built with **[HTML, CSS, JAVASCRIPT, BOOSTSTRAP]**. This project demonstrates my ability to **[MASTER THE ACT OF CHANGING DIFFERENT MEAL IN THE SAME PAGE]**. You can check out the repository [here](https://github.com/Express-Digital/DE-NOSH-PROJECT.git)
 
-### [Project 2 Title](project_2_link)
+### [Real-Estate] (https://github.com/Express-Digital/RealityEstate-project.git)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](https://bit.ly/454S4WA)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Reality-Estate website]** is a **[A REAL ESTATE WEBSITE]** built with **[HTML,CSS,JAVASCRIPT, BOOSTSTRAP]**. This project showcases my skills in **[FEAUTURING BUILDING AND LISTING HOUSES]**. You can check out the repository [here](https://github.com/Express-Digital/RealityEstate-project.git).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]**(https://bit.ly/454S4WA)
+- **[LinkedIn]**(https://www.linkedin.com/in/chisom-ezeyim-708a16266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **[Twitter]**(https://x.com/ExpressDig57224?t=8pNe1s2MsRE7_4sbJddVlA&s=09)
+- **[Tiktok]** (https://www.tiktok.com/@my_expressdigital?_t=ZM-8wrflNS2uwy&_r=1)
 
 
