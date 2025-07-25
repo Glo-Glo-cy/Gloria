@@ -1,6 +1,6 @@
 # Hi there, I'm Ezeyim Gloria Chisom! 👋
 
-![Banner Image](https://drive.google.com/file/d/1C9xXwQOsMOqjs8RyHL5RfEy45Ag7ZoEs/view?usp=sharing)
+![Banner Image] (https://drive.google.com/file/d/1C9xXwQOsMOqjs8RyHL5RfEy45Ag7ZoEs/view?usp=sharing)
 
 ## About Me 🚀
 
@@ -18,7 +18,7 @@ I'm a passionate Front-end developemnt with experience in Html, Css, Javascript,
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo] (https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -32,7 +32,7 @@ I'm a passionate Front-end developemnt with experience in Html, Css, Javascript,
 
 ![Project 2 Screenshot] (https://bit.ly/454S4WA)
 
-**[DE-NOSH-PROJECT]** is a **[RESTURANT WEBSITE]** built with **[HTML, CSS, JAVASCRIPT, BOOSTSTRAP]**. This project demonstrates my ability to **[MASTER THE ACT OF CHANGING DIFFERENT MEAL IN THE SAME PAGE]**. You can check out the repository [here](https://github.com/Express-Digital/DE-NOSH-PROJECT.git)
+**[DE-NOSH-PROJECT]** is a **[RESTURANT WEBSITE]** built with **[HTML, CSS, JAVASCRIPT, BOOSTSTRAP]**. This project demonstrates my ability to **[MASTER THE ACT OF CHANGING DIFFERENT MEAL IN THE SAME PAGE]**. You can check out the repository [here] (https://github.com/Express-Digital/DE-NOSH-PROJECT.git)
 
 ### [Real-Estate] (https://github.com/Express-Digital/RealityEstate-project.git)
 
