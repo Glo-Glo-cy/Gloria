@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Front-end developemnt with experience in Html, Css, Javascript, react.js, typescript,React naive. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Front-end developer and a UiUx Designer with experience in  Html, Css, Javascript, react.js and i work with figma, adobe xd and framer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: React naive and typescript
 - 🔭 Working on: E-commerce bag website
