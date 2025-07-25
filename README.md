@@ -1,6 +1,6 @@
 # Hi there, I'm Ezeyim Gloria Chisom! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1C9xXwQOsMOqjs8RyHL5RfEy45Ag7ZoEs/view?usp=sharing)
 
 ## About Me 🚀
 
